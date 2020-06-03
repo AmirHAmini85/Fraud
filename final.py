@@ -42,9 +42,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0  
     elif ch==4:
         b='adad sahih'
         print(b)
@@ -52,9 +50,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0    
     elif ch==5:
         b='mashin hesab'
         print(b)
@@ -62,9 +58,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0     
     elif ch==6:
         b='amal gar'
         print(b)
@@ -72,9 +66,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0     
     elif ch==7:
         b='jame'
         print(b)
@@ -82,9 +74,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0   
     elif ch==8:
         b='hendese dig'
         print(b)
@@ -92,9 +82,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0      
     elif ch==9:
         b='jazr moraba & mokab va ...'
         print(b)
@@ -102,9 +90,7 @@ while m==0:
         if c==1:
             m=1
         else:
-            m=0
-        else:
-            m=0        
+            m=0     
     elif ch==10:
         b='bordar'
         print(b)
